@@ -1,0 +1,11 @@
+{
+  "name": "telegrambot-pages-functions",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Minimal config to satisfy Cloudflare Pages build and host Functions.",
+  "type": "module",
+  "scripts": {
+    "build": "echo \"No build step required\"",
+    "start": "echo \"Use Cloudflare Pages preview to run Functions\""
+  }
+}
